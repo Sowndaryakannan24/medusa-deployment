@@ -1,7 +1,7 @@
 🧵 Medusa Backend Deployment on AWS (ECS + Terraform + Docker + GitHub Actions)
 ===============================================================================
 
-This project demonstrates how to deploy a [MedusaJS](https://medusajs.com) headless commerce backend on AWS using:
+This project demonstrates how to deploy a [MedusaJS](https://medusajs.com) headless commerce backend on AWS using : 
 
 *   **Terraform** for infrastructure provisioning
 *   **Docker** for containerization
