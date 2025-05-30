@@ -164,7 +164,3 @@ RDS or service DB password
 
 * * *
 
-📫 Contact
-----------
-
-Made with ❤️ by [Ayush Trivedi](https://github.com/trivediayush)
