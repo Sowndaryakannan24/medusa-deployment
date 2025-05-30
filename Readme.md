@@ -51,7 +51,7 @@ My-Medusa-Store/
 ### 1\. Clone This Repo
 
     
-    git clone https://github.com/trivediayush/Medusa-Store.git
+    git clone https://github.com/Sowndaryakannan24/medusa-store.git
     cd Medusa-Store
     
 
